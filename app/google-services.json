@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366423241900",
+    "project_id": "baru-7a3df",
+    "storage_bucket": "baru-7a3df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366423241900:android:d3fbda31fb63e69fcb5b09",
+        "android_client_info": {
+          "package_name": "com.example.firebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgesKeNsEiPM2t_lA9nqN0qTOSEReXVkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
